@@ -1,4 +1,6 @@
 ski-team
 ========
 
-Ski team
+Simple and beautiful front-end site listing members of my Whistler ski team for 2015.  Entire site was built from scratch using no 3rd party CSS libraries.
+
+Demo here: http://instructor-rails-53727.bitballoon.com/
