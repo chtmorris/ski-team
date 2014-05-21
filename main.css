@@ -1,0 +1,110 @@
+body {
+  background: url(http://www.crystal-lodge.com/images/crystal-lodge/general/News_Blogs/whistler_ski?action=scale&width=3871&height=2576) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+header {
+  padding-top: 20px;
+}
+
+header h2 + p {
+  display: block;
+  font-family: 'Nexa';
+  font-size: 19px;
+  font-weight: bold;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: rgba(247, 78, 18, 0.59);
+  text-align: center;
+  margin-bottom: 35px;
+  font-family: 'Open Sans';
+}
+
+h2 {
+  font-size: 64px;
+  line-height: 0.9;
+  color: #ffffff;
+  font-family: 'Open Sans';
+  text-transform: uppercase;
+  margin-bottom: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.orange {
+  color: #f74e12;
+}
+
+main {
+  padding: 0 100px 0 100px;
+  text-align: center;
+}
+
+
+.hamish{
+ background-image: url('https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc1/t31.0-8/1979372_10153878736315317_1658127920_o.jpg');
+}
+
+.mel{
+ background-image: url('https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-frc1/t1.0-9/336_74452345316_533_n.jpg');
+}
+
+.jazzie{
+ background-image: url('https://scontent-a-kul.xx.fbcdn.net/hphotos-prn2/t1.0-9/1535051_10153772396360317_936039329_n.jpg');
+}
+
+.xan{
+ background-image: url('https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/t31.0-8/1956884_10153878731580317_818001676_o.jpg');
+}
+
+.daisy{
+ background-image: url('https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-frc1/t31.0-8/902503_10101061737601711_1887754074_o.jpg');
+}
+
+.charlie{
+ background-image: url('https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-frc3/t31.0-8/891679_10100465326344439_1940151567_o.jpg');
+}
+
+.who{
+ background-image: url('http://ak3.picdn.net/shutterstock/videos/3593531/preview/stock-footage-clouds-creating-question-mark-against-black-with-alpha-channel.jpg');
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
+}
+
+p {
+display: inline-block;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+}
+
+.img-circular{
+ width: 200px;
+ height: 200px;
+ background-size: cover;
+ display: block;
+ border-top-left-radius: 100px;
+ -webkit-border-top-left-radius: 100px;
+ -moz-border-top-left-radius: 100px;
+ border-bottom-right-radius: 100px;
+ -webkit-border-bottom-right-radius: 100px;
+ -moz-border-bottom-right-radius: 100px;
+ margin: 30px 30px 50px 30px;
+ display:inline-block;
+}
+
+p.name {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Open Sans';
+  color: #FFF;
+  text-transform: uppercase;
+  margin-top: 210px;
+}
